@@ -1,0 +1,26 @@
+{
+  "name": "nuevo_repo",
+  "version": "1.0.0",
+  "description": "¡Hola! Este repositorio es un **entorno de prueba y aprendizaje**.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianp16-afk/nuevo_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adrianp16-afk/nuevo_repo/issues"
+  },
+  "homepage": "https://github.com/adrianp16-afk/nuevo_repo#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "env": "^0.0.2",
+    "express": "^5.3.0"
+  }
+}
