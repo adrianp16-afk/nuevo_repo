@@ -21,4 +21,4 @@ Technologies
 ## 📌Project status
 This project is currently under development.
 
-*Thank for the visit.*
+*Thank you for visiting.*
