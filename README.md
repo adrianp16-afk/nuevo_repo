@@ -23,7 +23,9 @@ This project is currently under development.
 
 ## Contribuitors 
 Alvarez Pantoja Adrián
+
 Parra González Diego
+
 Soto Aceves Abraham Ignacio
 
 *Thank you for visiting.*
