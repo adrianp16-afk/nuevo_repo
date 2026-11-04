@@ -1,13 +1,24 @@
-#  Repositorio de Prueba
+# #  event-oriented project
+Hello, welcome to our project.
 
-¡Hola! Este repositorio es un **entorno de prueba y aprendizaje**. 
+The Event Attedance System is a software project designed to manage event attedance using QR codes.
 
-## 📌 Estado del proyecto
-- En desarrollo / Pruebas iniciales.
-- **Propósito:** Probar configuraciones, comandos de Git y estructura de archivos.
-- **Futuro:**
-- Este espacio sirve como base para almacenar y preparar proyectos futuros más completos.
+The system aims to simplify participant registration, generate unique QR codes, validate attendance, and store attendance records.
 
+Main Features 
+-Participant registration.
+-Unique participant identification.
+-Event management.
+-QR code generation.
+-QR code scanning and validation.
+-Attendance tracking.
 
----
-*Gracias por visitar.*
+Technologies
+-Javascript
+-Node.js
+-Git and GitHub 
+
+## 📌Project status
+This project is currently under development.
+
+*Thank for the visit.*
