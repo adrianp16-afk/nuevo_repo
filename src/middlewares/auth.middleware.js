@@ -5,7 +5,7 @@ export const verifyToken = (req, res, next) => {
     const token = req.headers['authorization'];
 
     if (!token) {
-        return res.status(403).json({ message: 'No se proporcionó un token de acceso' });
+        return res.status(403).json({ message: 'No access token provided' });
     }
 
     try {
@@ -13,6 +13,6 @@ export const verifyToken = (req, res, next) => {
         req.userId = decoded.id; // Guarda el ID del usuario en la petición
         next(); // ¡Paso libre al controlador!
     } catch (error) {
-        return res.status(401).json({ message: 'Token inválido o expirado' });
+        return res.status(401).json({ message: 'Invalid or expired token' });
     }
 };
